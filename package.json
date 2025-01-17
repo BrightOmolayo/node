@@ -1,0 +1,24 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/BrightOmolayo/node#readme",
+  "bugs": {
+    "url": "https://github.com/BrightOmolayo/node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrightOmolayo/node.git"
+  },
+  "license": "MIT",
+  "author": "bright <brightbalogun195@gmail.com>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "node": "^22.13.0"
+  }
+}
